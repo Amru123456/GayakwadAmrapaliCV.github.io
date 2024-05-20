@@ -20,7 +20,7 @@ body{
 }
 
 .left{
-	background:skyblue;
+	background: #292b2f;
 	width: 250px;
 	padding: 0 20px;
 }
@@ -147,7 +147,7 @@ body{
 }
 
 .header{
-	background: skyblue;
+	background: #292b2f;
 	padding: 15px 30px;
 	color: #fff;
 	height: 240px;
